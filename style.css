@@ -1,0 +1,51 @@
+.main{
+
+    border: 1px solid black;
+    width: 35%;
+    margin: 0 auto;
+}
+.clickbtn{
+
+    background-color: grey;
+}
+
+.btn{
+
+    background-color: grey;
+    margin-top: 5px;
+    padding: 10px
+}
+.btn1{
+
+    width: 100px;
+    background-color: grey;
+}
+
+
+.result{
+
+    background-color: grey;
+}
+
+.clearbtn{
+
+    background-color: grey;
+}
+
+/* .btn11{
+margin-left: 55px;
+} */
+
+/* .btn12{
+
+    margin-left: 55px;
+} */
+
+/* .btn13{
+
+    margin-left: 55px;
+} */
+
+
+
+
